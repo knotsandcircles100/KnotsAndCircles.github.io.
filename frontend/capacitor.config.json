@@ -1,0 +1,12 @@
+{
+  "appId": "com.emergent.tilematch",
+  "appName": "Tile Match",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
